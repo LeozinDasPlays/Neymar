@@ -1,0 +1,38 @@
+body{
+
+margin: 0px;
+text-align: center;
+
+
+
+}
+
+#neymito{
+
+background: linear-gradient(darkblue,rgb(91, 91, 255),rgb(65, 187, 140));    
+
+}
+
+.quintod{
+list-style: none;
+position: fixed;
+background-color: white;
+width: 100%;
+opacity: 60%;
+top:-16px;
+
+
+}
+.quintod li{
+float: left;
+margin: 5px;
+font-family: fantasy;
+
+
+
+}
+section{
+padding-top: 135px;
+padding-bottom: 35px;
+
+}
